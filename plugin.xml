@@ -11,10 +11,10 @@
   </pyqgis_plugin>
     <pyqgis_plugin name="calculsio" version="0.1">
     <description>Calcul automatique des FU</description>
-    <homepage>https://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@github.com/PCEServices/calculsio</homepage>
+    <homepage>https://github.com/PCEServices/calculsio</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>calculsio-main.zip</file_name>
-    <download_url>https://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@github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
