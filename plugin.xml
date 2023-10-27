@@ -1,20 +1,20 @@
 <plugins>
   <pyqgis_plugin name="export_import" version="0.1">
     <description>Exporter via polygone - Importer par couche</description>
-    <homepage>http://192.168.8.56/root/export_import</homepage>
+    <homepage>https://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@github.com/PCEServices/export_import</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>export_import-main.zip</file_name>
-    <download_url>http://192.168.8.56/root/export_import/-/archive/main/export_import-main.zip</download_url>
+    <download_url>https://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@github.com/PCEServices/export_import/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="exportsro" version="0.1">
-    <description>Permet d'exporter un SRO de la BDD</description>
-    <homepage>http://192.168.8.56/root/export_sro</homepage>
+    <pyqgis_plugin name="calculsio" version="0.1">
+    <description>Calcul automatique des FU</description>
+    <homepage>https://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@github.com/PCEServices/calculsio</homepage>
     <author_name>Romain Lagrange</author_name>
-    <file_name>export_sro-main.zip</file_name>
-    <download_url>http://192.168.8.56/root/export_sro/-/archive/main/export_sro-main.zip</download_url>
+    <file_name>calculsio-main.zip</file_name>
+    <download_url>https://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@github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
