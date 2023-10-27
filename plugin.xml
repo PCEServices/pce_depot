@@ -1,20 +1,20 @@
 <plugins>
   <pyqgis_plugin name="export_import" version="0.1">
     <description>Exporter via polygone - Importer par couche</description>
-    <homepage>https://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@github.com/PCEServices/export_import</homepage>
+    <homepage>https://github.com/PCEServices/export_import</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>export_import-main.zip</file_name>
-    <download_url>https://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@github.com/PCEServices/export_import/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/PCEServices/export_import/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="calculsio" version="0.1">
     <description>Calcul automatique des FU</description>
-    <homepage>https://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@github.com/PCEServices/calculsio</homepage>
+    <homepage>https://github.com/PCEServices/calculsio</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>calculsio-main.zip</file_name>
-    <download_url>https://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@github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
