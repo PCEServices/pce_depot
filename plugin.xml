@@ -42,7 +42,7 @@
   <pyqgis_plugin name="reffunctions" version="0.1">
     <description>Provide field calculator function for Reference to other layers/features based on Nathan Woodrow work: 
     http://nathanw.net/2012/11/10/user-defined-expression-functions-for-qgis/</description>
-    <homepage>https://github.com/PCEServices/reffunctions</homepage>
+    <homepage>https://github.com/PCEServices/refFunctions</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>reffunctions-main.zip</file_name>
     <download_url>https://github.com/PCEServices/reffunctions/archive/refs/heads/main.zip</download_url>
