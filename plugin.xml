@@ -39,7 +39,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="reffunctions" version="0.1">
+  <pyqgis_plugin name="refFunctions" version="0.1">
     <description>Provide field calculator function for Reference to other layers/features based on Nathan Woodrow work: 
     http://nathanw.net/2012/11/10/user-defined-expression-functions-for-qgis/</description>
     <homepage>https://github.com/PCEServices/refFunctions</homepage>
