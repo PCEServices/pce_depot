@@ -19,12 +19,22 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="import_style" version="0.1">
+  <pyqgis_plugin name="import_style" version="0.1">
     <description>Importer style</description>
     <homepage>https://github.com/PCEServices/import_style</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>import_style-main.zip</file_name>
     <download_url>https://github.com/PCEServices/import_style/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="siobuilder" version="0.1">
+    <description></description>
+    <homepage>https://github.com/PCEServices/siobuilder</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>siobuilder-main.zip</file_name>
+    <download_url>https://github.com/PCEServices/siobuilder/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
