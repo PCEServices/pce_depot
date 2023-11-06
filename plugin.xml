@@ -70,4 +70,14 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
+  <pyqgis_plugin name="ca" version="0.1">
+    <description></description>
+    <homepage>https://github.com/PCEServices/ca</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>ca-main.zip</file_name>
+    <download_url>https://github.com/PCEServices/ca/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
 </plugins>
